@@ -1,6 +1,6 @@
 #!/bin/sh -eux
 
-git worktree add -B gh-pages public
+git worktree add -B gh-pages public origin/gh-pages
 
 npm run build
 
