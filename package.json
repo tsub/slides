@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tsub/slides/issues"
   },
-  "homepage": "https://github.com/tsub/slides#readme"
+  "homepage": "https://github.com/tsub/slides#readme",
+  "devDependencies": {
+    "mdx-deck": "^2.3.0"
+  }
 }
